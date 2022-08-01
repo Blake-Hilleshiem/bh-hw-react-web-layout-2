@@ -6,9 +6,10 @@
 
 body {
   margin: 0;
+  font-family: sans-serif;
   .App {
     display: grid;
-    grid-template-rows: 150px 100vh 150px;
+    grid-template-rows: 150px 65vh 150px;
 
     header {
       background-color: black;
@@ -63,7 +64,10 @@ body {
     }
 
     .middle-container {
-      @include center-content(flex-start);
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      flex-direction: column;
       // height: auto;
 
       .row-wrapper {
