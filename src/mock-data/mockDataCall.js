@@ -36,26 +36,26 @@ let mockDataCall = {
       img: "https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     },
 
-    {
-      id: 6,
-      name: "Tanya",
-      description: "Just line of text",
-      img: "https://images.unsplash.com/photo-1628148061873-13b9340f763b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
-    },
+    // {
+    //   id: 6,
+    //   name: "Tanya",
+    //   description: "Just line of text",
+    //   img: "https://images.unsplash.com/photo-1628148061873-13b9340f763b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    // },
 
-    {
-      id: 7,
-      name: "Mike",
-      description: "Arbitrary line of text",
-      img: "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGxpZ2h0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
-    },
+    // {
+    //   id: 7,
+    //   name: "Mike",
+    //   description: "Arbitrary line of text",
+    //   img: "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGxpZ2h0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+    // },
 
-    {
-      id: 8,
-      name: "Matt",
-      description: "Random line of text",
-      img: "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-    },
+    // {
+    //   id: 8,
+    //   name: "Matt",
+    //   description: "Random line of text",
+    //   img: "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    // },
   ],
 };
 
